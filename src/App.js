@@ -1,10 +1,8 @@
 import './App.css';
-import Header from './components/Header/Header'
-import Layout from './components/Layout/Layout'
-import Footer from './components/Footer/Footer'
-
+import Header from './components/Header/Header';
+import Layout from './components/Layout/Layout';
+import Footer from './components/Footer/Footer';
 import pica from './images/bg1.jpeg';
-
 
 function App() {
   const layoutStyle = {
